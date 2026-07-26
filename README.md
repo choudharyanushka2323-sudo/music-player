@@ -45,7 +45,7 @@ music-player/
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/music-player.git
+   git clone https://github.com/<choudharyanushka2323-sudo>/music-player.git
    cd music-player
    ```
 
