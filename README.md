@@ -1,4 +1,4 @@
-# Java Console Music Player 🎵
+## Java Console Music Player 🎵
 
 A lightweight, terminal-based audio player built in Java using the `javax.sound.sampled` API. Load a local audio file and control playback — play, stop, and reset — through a simple command-line menu.
 
