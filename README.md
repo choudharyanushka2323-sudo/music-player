@@ -4,7 +4,7 @@ A lightweight, terminal-based audio player built in Java using the `javax.sound.
 
 ## Features
 
-- ▶️ **Play** audio from a local file path
+- ▶️ **Play** audio from a local file path.
 - ⏹️ **Stop** playback at any time
 - 🔄 **Reset** playback to the beginning
 - ❌ **Quit** cleanly with proper resource cleanup
