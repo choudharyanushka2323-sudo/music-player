@@ -103,7 +103,7 @@ The player gracefully handles common failure cases:
 - [ ] Support playlists / directory scanning
 - [ ] Build a simple GUI with JavaFX or Swing
 
-## Contributing
+### Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for bug fixes, new features, or documentation improvements.
 
